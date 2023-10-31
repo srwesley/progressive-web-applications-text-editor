@@ -10,7 +10,6 @@
   "devDependencies": {
     "@babel/core": "^7.23.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
-    "//": "Note: Added the devDependency @babel/plugin-transform-object-rest-spread since the one above, the @babel/plugin-proposal-object-rest-spread has been deprecated, and the official npmjs.com site says to use transform-object instead, but I still included proposal-object just in case",
     "@babel/plugin-transform-object-rest-spread": "^7.22.15",
     "@babel/plugin-transform-runtime": "^7.23.2",
     "@babel/preset-env": "^7.23.2",
